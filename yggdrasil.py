@@ -1,4 +1,4 @@
-#/usr/bin/python2.7
+#/usr/bin/env/python 2.7
 import requests
 import json
 
